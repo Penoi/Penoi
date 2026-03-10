@@ -12,7 +12,7 @@ Estudante de [Coloque o Nome do Seu Curso aqui] apaixonado por tecnologia, siste
 - **Linguagens:** Kotlin, Python, C, Java e SQL.
 - **Backend/Mobile:** Spring Boot, Android SDK, Room, BeautifulSoup (Scraping).
 - **Ferramentas:** Git, Docker, IntelliJ IDEA, Android Studio.
-- **Sistemas Operacionais:** Arch Linux, CachyOS, Pop!_OS.
+- **Sistemas Operacionais:** Arch Linux, CachyOS, Pop!_OS, Ubuntu, Windowns, Fedora.
 
 ### 📈 O que estou aprendendo agora
 - [ ] Aperfeiçoando o desenvolvimento de APIs com **Spring Boot**.
