@@ -23,11 +23,6 @@ Estudante de [Coloque o Nome do Seu Curso aqui] apaixonado por tecnologia, siste
 
 ### 📫 Vamos nos conectar?
 - **Email:** penoi2019@gmail.com
-- **Instagram:** @pedro
-- **LinkedIn:** [Link para seu LinkedIn]
+- **Instagram:** @pedro_otbm
 
 ---
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do Pedro](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark)
