@@ -22,8 +22,8 @@ Estudante de [Coloque o Nome do Seu Curso aqui] apaixonado por tecnologia, siste
 ---
 
 ### 📫 Vamos nos conectar?
-- **Email:** [SEU-EMAIL-AQUI]
-- **Instagram:** [@SEU-INSTA-AQUI]
+- **Email:** penoi2019@gmail.com
+- **Instagram:** @pedro
 - **LinkedIn:** [Link para seu LinkedIn]
 
 ---
