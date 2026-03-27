@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro (Penoi) 👋
 
-Estudante de [Coloque o Nome do Seu Curso aqui] apaixonado por tecnologia, sistemas de baixo nível e desenvolvimento mobile. Atualmente focado em construir aplicações robustas e escaláveis.
+Estudante de Sistemas de Informação, apaixonado por tecnologia, sistemas de baixo nível e desenvolvimento mobile. Atualmente focado em construir aplicações robustas e escaláveis.
 
 ### 🚀 Sobre mim
 - 🎓 Cursando faculdade e aprofundando em Engenharia de Software.
