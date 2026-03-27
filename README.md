@@ -11,7 +11,7 @@ Estudante de [Coloque o Nome do Seu Curso aqui] apaixonado por tecnologia, siste
 ### 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Kotlin, Python, C, Java e SQL.
 - **Backend/Mobile:** Spring Boot, Android SDK, Room, BeautifulSoup (Scraping).
-- **Ferramentas:** Git, Docker, IntelliJ IDEA, Android Studio.
+- **Ferramentas:** Git, IntelliJ IDEA, Android Studio.
 - **Sistemas Operacionais:** Arch Linux, CachyOS, Pop!_OS, Ubuntu, Windowns, Fedora.
 
 ### 📈 O que estou aprendendo agora
