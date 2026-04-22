@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro (Penoi) 👋
+# Olá, eu sou o Pedro Barbosa 👋
 
 Estudante de Sistemas de Informação, apaixonado por tecnologia, sistemas de baixo nível e desenvolvimento mobile. Atualmente focado em construir aplicações robustas e escaláveis.
 
