@@ -1,5 +1,11 @@
 # Olá, eu sou o Pedro Barbosa 👋
 
+- **Email:** pedrootbm@gmail.com
+- **Instagram:** [@pedro_otbm](https://instagram.com/pedro.exec)
+- **Linkedin**: [Pedro Barbosa](https://www.linkedin.com/in/penoi/)
+
+---
+  
 Estudante de **Sistemas de Informação**, apaixonado por tecnologia, sistemas de baixo nível e desenvolvimento mobile e backend.
 Gosto de construir aplicações robustas, bem testadas e fáceis de manter, do banco de dados à interface.
 
@@ -31,12 +37,6 @@ Gosto de construir aplicações robustas, bem testadas e fáceis de manter, do b
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Frontend**
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Mobile**
 ![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
