@@ -119,6 +119,7 @@ A aplicação utiliza dados ambientais e geoespaciais, incluindo informações d
 
 ## 🌱 Atualmente estudando
 
+
 - 🤖 **Inteligência Artificial:** agentes inteligentes, integração de LLMs e desenvolvimento de aplicações com IA.
 - 🏗️ **Arquitetura de Software:** padrões de projeto, design de sistemas, modularização e escalabilidade.
 - 🔌 **Engenharia de Backend:** desenvolvimento de APIs, modelagem de dados, ORMs, migrações, autenticação e comunicação entre serviços.
